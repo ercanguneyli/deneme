@@ -1,0 +1,1327 @@
+﻿[
+    {
+        "Id": "1",
+        "Lateinisch": "Abzess",
+        "Deutsch": "die Eiteransammlung"
+    },
+    {
+        "Id": "2",
+        "Lateinisch": "Axilla",
+        "Deutsch": "die Achselhöhle"
+    },
+    {
+        "Id": "3",
+        "Lateinisch": "Abortus",
+        "Deutsch": "die Fehlgeburt"
+    },
+    {
+        "Id": "4",
+        "Lateinisch": "Adjuvant",
+        "Deutsch": "unterstützend"
+    },
+    {
+        "Id": "5",
+        "Lateinisch": "Adipositas",
+        "Deutsch": "die Fettsucht"
+    },
+    {
+        "Id": "6",
+        "Lateinisch": "Amnesie",
+        "Deutsch": "die Erinnerungslücke"
+    },
+    {
+        "Id": "7",
+        "Lateinisch": "Aspiration",
+        "Deutsch": "Ansaugen, Verschlucken, Fremdstoffeinatmung"
+    },
+    {
+        "Id": "8",
+        "Lateinisch": "Azidose",
+        "Deutsch": "Übersäuerung vom Blut"
+    },
+    {
+        "Id": "9",
+        "Lateinisch": "Alkalose",
+        "Deutsch": "Basenüberschuss im Blut"
+    },
+    {
+        "Id": "10",
+        "Lateinisch": "Arterie",
+        "Deutsch": "die Schlagader"
+    },
+    {
+        "Id": "11",
+        "Lateinisch": "Aorta",
+        "Deutsch": "die Hauptschlagader"
+    },
+    {
+        "Id": "12",
+        "Lateinisch": "Asthenie",
+        "Deutsch": "Schwäche, Kraftlosigkeit"
+    },
+    {
+        "Id": "13",
+        "Lateinisch": "Aseptisch",
+        "Deutsch": "keimfrei"
+    },
+    {
+        "Id": "14",
+        "Lateinisch": "Asystolie",
+        "Deutsch": "der Herzstillstand"
+    },
+    {
+        "Id": "15",
+        "Lateinisch": "Arthroskopie",
+        "Deutsch": "Gelenkspiegelung"
+    },
+    {
+        "Id": "16",
+        "Lateinisch": "Arthrose",
+        "Deutsch": "die Gelenkverschleiß"
+    },
+    {
+        "Id": "17",
+        "Lateinisch": "Analgetikum",
+        "Deutsch": "das Schmerzmittel"
+    },
+    {
+        "Id": "18",
+        "Lateinisch": "Anästhesie",
+        "Deutsch": "Betäubung"
+    },
+    {
+        "Id": "19",
+        "Lateinisch": "Arthrodese",
+        "Deutsch": "die operative Gelenkversteifung"
+    },
+    {
+        "Id": "20",
+        "Lateinisch": "Apoplex",
+        "Deutsch": "der Schlaganfall"
+    },
+    {
+        "Id": "21",
+        "Lateinisch": "Apnoe",
+        "Deutsch": "Atemstillstand"
+    },
+    {
+        "Id": "22",
+        "Lateinisch": "Appendizitis",
+        "Deutsch": "Wurmfortsatzentzündung"
+    },
+    {
+        "Id": "23",
+        "Lateinisch": "Appendektomie",
+        "Deutsch": "Wurmfortsatzentfernung"
+    },
+    {
+        "Id": "24",
+        "Lateinisch": "Aneurysma",
+        "Deutsch": "die Gefäßerweiterung, die Aussackung"
+    },
+    {
+        "Id": "25",
+        "Lateinisch": "Antidot",
+        "Deutsch": "das Gegenmittel, das Gegengift"
+    },
+    {
+        "Id": "26",
+        "Lateinisch": "Anus preater (Enterostoma)",
+        "Deutsch": "künstlicher Darmausgang"
+    },
+    {
+        "Id": "27",
+        "Lateinisch": "Antiseptikum",
+        "Deutsch": "Desinfektionsmittel, keimbekämpfendes Mittel"
+    },
+    {
+        "Id": "28",
+        "Lateinisch": "Angiogenese",
+        "Deutsch": "die Gefäßbildung"
+    },
+    {
+        "Id": "29",
+        "Lateinisch": "Anterior",
+        "Deutsch": "vorne"
+    },
+    {
+        "Id": "30",
+        "Lateinisch": "Alveole",
+        "Deutsch": "Lungenbläschen"
+    },
+    {
+        "Id": "31",
+        "Lateinisch": "Articulatio coxae",
+        "Deutsch": "Hüftgelenk"
+    },
+    {
+        "Id": "32",
+        "Lateinisch": "Auskultation",
+        "Deutsch": "Abhören"
+    },
+    {
+        "Id": "33",
+        "Lateinisch": "Ataxie",
+        "Deutsch": "Bewegungskoordinationsstörung"
+    },
+    {
+        "Id": "34",
+        "Lateinisch": "Atypisch",
+        "Deutsch": "vom allgemeinen Typ abweichend,für etwas nicht charakteristisch"
+    },
+    {
+        "Id": "35",
+        "Lateinisch": "Atrium",
+        "Deutsch": "Vorhof"
+    },
+    {
+        "Id": "36",
+        "Lateinisch": "Bronchialkarzinom",
+        "Deutsch": "Lungenkrebs"
+    },
+    {
+        "Id": "37",
+        "Lateinisch": "Bronchoskopie",
+        "Deutsch": "Lungenspiegelung"
+    },
+    {
+        "Id": "38",
+        "Lateinisch": "Brachium",
+        "Deutsch": "Oberarm"
+    },
+    {
+        "Id": "39",
+        "Lateinisch": "Biopsie",
+        "Deutsch": "Gewebeprobeentnahme"
+    },
+    {
+        "Id": "40",
+        "Lateinisch": "Bursitis",
+        "Deutsch": "Schleimbeutelentzündung"
+    },
+    {
+        "Id": "41",
+        "Lateinisch": "Bulbus oculi",
+        "Deutsch": "Augapfel"
+    },
+    {
+        "Id": "42",
+        "Lateinisch": "Ciliumdie",
+        "Deutsch": "Wimper"
+    },
+    {
+        "Id": "43",
+        "Lateinisch": "Colitis",
+        "Deutsch": "die Dickdarmentzündung"
+    },
+    {
+        "Id": "44",
+        "Lateinisch": "Cerebrum",
+        "Deutsch": "das Hirn"
+    },
+    {
+        "Id": "45",
+        "Lateinisch": "Cerebellum",
+        "Deutsch": "das Kleinhirn"
+    },
+    {
+        "Id": "46",
+        "Lateinisch": "Colon",
+        "Deutsch": "der Dickdarm"
+    },
+    {
+        "Id": "47",
+        "Lateinisch": "Cartilago",
+        "Deutsch": "der Knorpel"
+    },
+    {
+        "Id": "48",
+        "Lateinisch": "Cerumen",
+        "Deutsch": "Ohrenschmalz"
+    },
+    {
+        "Id": "49",
+        "Lateinisch": "Cholestase",
+        "Deutsch": "Gallenstau"
+    },
+    {
+        "Id": "50",
+        "Lateinisch": "Cholezystitis",
+        "Deutsch": "Gallenblasenentzündung"
+    },
+    {
+        "Id": "51",
+        "Lateinisch": "Commotio cerebri",
+        "Deutsch": "Gehirnerschütterung (SHT 1. Grad)"
+    },
+    {
+        "Id": "52",
+        "Lateinisch": "Coxitis",
+        "Deutsch": "Hüftgelenkentzündung"
+    },
+    {
+        "Id": "53",
+        "Lateinisch": "Dura Mater",
+        "Deutsch": "die harte Hirnhaut"
+    },
+    {
+        "Id": "54",
+        "Lateinisch": "Duodenum",
+        "Deutsch": "Zwölffingerdarm"
+    },
+    {
+        "Id": "55",
+        "Lateinisch": "Dekubitus",
+        "Deutsch": "Druckgeschwür"
+    },
+    {
+        "Id": "56",
+        "Lateinisch": "Dermatitis",
+        "Deutsch": "Hautentzündung"
+    },
+    {
+        "Id": "57",
+        "Lateinisch": "Dyspepsie",
+        "Deutsch": "Verdauungsstörung"
+    },
+    {
+        "Id": "58",
+        "Lateinisch": "Diaphragma",
+        "Deutsch": "Zwerchfell"
+    },
+    {
+        "Id": "59",
+        "Lateinisch": "Divertikulitis",
+        "Deutsch": "entzündete Darmausstülpung, Entzündung von Ausstülpungen der Darmwand"
+    },
+    {
+        "Id": "60",
+        "Lateinisch": "Diuretika",
+        "Deutsch": "Wassertabletten (Entwässerungsmittel) (pl.)"
+    },
+    {
+        "Id": "61",
+        "Lateinisch": "Dysphagie",
+        "Deutsch": "die Schluckstörung"
+    },
+    {
+        "Id": "62",
+        "Lateinisch": "Diarrhoe",
+        "Deutsch": "der Durchfall"
+    },
+    {
+        "Id": "63",
+        "Lateinisch": "Dialyse",
+        "Deutsch": "Blutwäsche"
+    },
+    {
+        "Id": "64",
+        "Lateinisch": "Dyspnoe",
+        "Deutsch": "Luftnot"
+    },
+    {
+        "Id": "65",
+        "Lateinisch": "Erysipel",
+        "Deutsch": "Wundrose"
+    },
+    {
+        "Id": "66",
+        "Lateinisch": "Epistaxis",
+        "Deutsch": "das Nasenbluten"
+    },
+    {
+        "Id": "67",
+        "Lateinisch": "Extrauterine Gravidität",
+        "Deutsch": "Schwangerschaft außerhalb der Gebärmutter"
+    },
+    {
+        "Id": "68",
+        "Lateinisch": "Emphysem",
+        "Deutsch": "Lungenblähung"
+    },
+    {
+        "Id": "69",
+        "Lateinisch": "Extension",
+        "Deutsch": "Streckung"
+    },
+    {
+        "Id": "70",
+        "Lateinisch": "Exazerbation",
+        "Deutsch": "Verschlimmerung einer Krankheit"
+    },
+    {
+        "Id": "71",
+        "Lateinisch": "Ejakulat",
+        "Deutsch": "die Samenflüssigkeit"
+    },
+    {
+        "Id": "72",
+        "Lateinisch": "Endokarditis",
+        "Deutsch": "Herzinnenhautentzündung"
+    },
+    {
+        "Id": "73",
+        "Lateinisch": "Emesis",
+        "Deutsch": "Erbrechen"
+    },
+    {
+        "Id": "74",
+        "Lateinisch": "Empyem",
+        "Deutsch": "Eiteransammlung in einer Körperhöhle"
+    },
+    {
+        "Id": "75",
+        "Lateinisch": "Enzephalitis",
+        "Deutsch": "Gehirnentzündung"
+    },
+    {
+        "Id": "76",
+        "Lateinisch": "Femur",
+        "Deutsch": "der Oberschenkel"
+    },
+    {
+        "Id": "77",
+        "Lateinisch": "Fluor vaginalis",
+        "Deutsch": "Scheidenausfluss"
+    },
+    {
+        "Id": "78",
+        "Lateinisch": "Fraktur",
+        "Deutsch": "Knochenbruch"
+    },
+    {
+        "Id": "79",
+        "Lateinisch": "Flexüle",
+        "Deutsch": "Kanüle, Peripherer Venenkatheter"
+    },
+    {
+        "Id": "80",
+        "Lateinisch": "Flexion",
+        "Deutsch": "Beugung"
+    },
+    {
+        "Id": "81",
+        "Lateinisch": "Fissur",
+        "Deutsch": "die Spalte, der Riss"
+    },
+    {
+        "Id": "82",
+        "Lateinisch": "Fibula",
+        "Deutsch": "Wadenbein"
+    },
+    {
+        "Id": "83",
+        "Lateinisch": "Genu varum",
+        "Deutsch": "O - Beine"
+    },
+    {
+        "Id": "84",
+        "Lateinisch": "Genu valgus",
+        "Deutsch": "X - Beine"
+    },
+    {
+        "Id": "85",
+        "Lateinisch": "Gingiva",
+        "Deutsch": "Zahnfleisch"
+    },
+    {
+        "Id": "86",
+        "Lateinisch": "Glaukom",
+        "Deutsch": "grüner Star (erhöhter Augeninnendruck)"
+    },
+    {
+        "Id": "87",
+        "Lateinisch": "Gynäkologie",
+        "Deutsch": "Frauenheilkunde"
+    },
+    {
+        "Id": "88",
+        "Lateinisch": "Gastroenterologie",
+        "Deutsch": "Magendarmheilkunde"
+    },
+    {
+        "Id": "89",
+        "Lateinisch": "Hyperventilation",
+        "Deutsch": "vertiefte und/oder beschleunigte Atmung"
+    },
+    {
+        "Id": "90",
+        "Lateinisch": "Hyperglykämie",
+        "Deutsch": "erhöhter Blutzuckerspiegel"
+    },
+    {
+        "Id": "91",
+        "Lateinisch": "Hypophyse",
+        "Deutsch": "Hirnanhangdrüse"
+    },
+    {
+        "Id": "92",
+        "Lateinisch": "Hepatotoxisch",
+        "Deutsch": "leberschädigend"
+    },
+    {
+        "Id": "93",
+        "Lateinisch": "Hepatotoxizität",
+        "Deutsch": "Leberschäden,Lebervergiftung"
+    },
+    {
+        "Id": "94",
+        "Lateinisch": "Hernie",
+        "Deutsch": "Bruch (Eingeweidebruch)"
+    },
+    {
+        "Id": "95",
+        "Lateinisch": "Hypothyreose",
+        "Deutsch": "Schilddrüsenunterfunktion"
+    },
+    {
+        "Id": "96",
+        "Lateinisch": "Hypoxämie",
+        "Deutsch": "Sauerstoffmangel im arteriellen Blut"
+    },
+    {
+        "Id": "97",
+        "Lateinisch": "Hypotonie",
+        "Deutsch": "niedriger Blutdruck"
+    },
+    {
+        "Id": "98",
+        "Lateinisch": "Hypertonie",
+        "Deutsch": "Bluthochdruck"
+    },
+    {
+        "Id": "99",
+        "Lateinisch": "Hyperlipidämie",
+        "Deutsch": "erhöhte Blutfettwerte"
+    },
+    {
+        "Id": "100",
+        "Lateinisch": "Hepar",
+        "Deutsch": "Leber"
+    },
+    {
+        "Id": "101",
+        "Lateinisch": "Hämatom",
+        "Deutsch": "Bluterguss"
+    },
+    {
+        "Id": "102",
+        "Lateinisch": "Hämatologie",
+        "Deutsch": "Blutheilkunde"
+    },
+    {
+        "Id": "103",
+        "Lateinisch": "Hämoptoe",
+        "Deutsch": "Bluthusten (größere Menge)"
+    },
+    {
+        "Id": "104",
+        "Lateinisch": "Hämatemesis",
+        "Deutsch": "Bluterbrechen"
+    },
+    {
+        "Id": "105",
+        "Lateinisch": "Humerus",
+        "Deutsch": "Oberarmknochen"
+    },
+    {
+        "Id": "106",
+        "Lateinisch": "Hepatitis",
+        "Deutsch": "Leberentzündung"
+    },
+    {
+        "Id": "107",
+        "Lateinisch": "Hemiparese",
+        "Deutsch": "Halbseitenlähmung"
+    },
+    {
+        "Id": "108",
+        "Lateinisch": "Hemianopsie",
+        "Deutsch": "Halbseitenblindheit"
+    },
+    {
+        "Id": "109",
+        "Lateinisch": "Influenza",
+        "Deutsch": "Grippe"
+    },
+    {
+        "Id": "110",
+        "Lateinisch": "Inappetenz",
+        "Deutsch": "Appetitlosigkeit"
+    },
+    {
+        "Id": "111",
+        "Lateinisch": "Inzision",
+        "Deutsch": "Einschnitt"
+    },
+    {
+        "Id": "112",
+        "Lateinisch": "Ileus",
+        "Deutsch": "Darmverschluss"
+    },
+    {
+        "Id": "113",
+        "Lateinisch": "Ileum",
+        "Deutsch": "Krummdarm"
+    },
+    {
+        "Id": "114",
+        "Lateinisch": "Ikterus",
+        "Deutsch": "Gelbsucht"
+    },
+    {
+        "Id": "115",
+        "Lateinisch": "Kanzerogen",
+        "Deutsch": "krebserzeugend, krebserregend"
+    },
+    {
+        "Id": "116",
+        "Lateinisch": "Kardiomegalie",
+        "Deutsch": "Herzvergrößerung"
+    },
+    {
+        "Id": "117",
+        "Lateinisch": "Katarakte",
+        "Deutsch": "grauer Star"
+    },
+    {
+        "Id": "118",
+        "Lateinisch": "Koloskopie",
+        "Deutsch": "Darmspiegelung"
+    },
+    {
+        "Id": "119",
+        "Lateinisch": "Koagulation",
+        "Deutsch": "Gerinnung"
+    },
+    {
+        "Id": "120",
+        "Lateinisch": "Kontraktion",
+        "Deutsch": "das Zusammenziehen, Verkürzung"
+    },
+    {
+        "Id": "121",
+        "Lateinisch": "Klimakterium",
+        "Deutsch": "Wechseljahre der Frau"
+    },
+    {
+        "Id": "122",
+        "Lateinisch": "Laparoskopie",
+        "Deutsch": "Bauchspiegelung"
+    },
+    {
+        "Id": "123",
+        "Lateinisch": "Laparotomie",
+        "Deutsch": "operative Eröffnung der Bauchhöhle"
+    },
+    {
+        "Id": "124",
+        "Lateinisch": "Leukozyt",
+        "Deutsch": "weiße Blutzelle"
+    },
+    {
+        "Id": "125",
+        "Lateinisch": "Labien",
+        "Deutsch": "die Schamlippen (Pl.)"
+    },
+    {
+        "Id": "126",
+        "Lateinisch": "Laxans",
+        "Deutsch": "Abführmittel"
+    },
+    {
+        "Id": "127",
+        "Lateinisch": "Liquor cerebrospinalis",
+        "Deutsch": "Gehirn und Rückenmarksflüssigkeit"
+    },
+    {
+        "Id": "128",
+        "Lateinisch": "Ligamentum",
+        "Deutsch": "Band"
+    },
+    {
+        "Id": "129",
+        "Lateinisch": "Lithiasis",
+        "Deutsch": "Steinleiden"
+    },
+    {
+        "Id": "130",
+        "Lateinisch": "Lithotripsie",
+        "Deutsch": "Zertrümmerung der Steine"
+    },
+    {
+        "Id": "131",
+        "Lateinisch": "Lochien",
+        "Deutsch": "Wochenfluss"
+    },
+    {
+        "Id": "132",
+        "Lateinisch": "Lateral",
+        "Deutsch": "seitlich gelegen"
+    },
+    {
+        "Id": "133",
+        "Lateinisch": "Maxilla",
+        "Deutsch": "Oberkiefer"
+    },
+    {
+        "Id": "134",
+        "Lateinisch": "Medial",
+        "Deutsch": "zur Mitte hin gelegen"
+    },
+    {
+        "Id": "135",
+        "Lateinisch": "Menarche",
+        "Deutsch": "erste Monatsblutung"
+    },
+    {
+        "Id": "136",
+        "Lateinisch": "Macula (Macula lutea)",
+        "Deutsch": "Fleck (gelber Fleck)"
+    },
+    {
+        "Id": "137",
+        "Lateinisch": "malignes Melanom",
+        "Deutsch": "schwarzer Hautkrebs"
+    },
+    {
+        "Id": "138",
+        "Lateinisch": "Myokardinfarkt",
+        "Deutsch": "der Herzinfarkt"
+    },
+    {
+        "Id": "139",
+        "Lateinisch": "Myokarditis",
+        "Deutsch": "Herzmuskelentzündung"
+    },
+    {
+        "Id": "140",
+        "Lateinisch": "Mykose",
+        "Deutsch": "Pilzkrankheit"
+    },
+    {
+        "Id": "141",
+        "Lateinisch": "Mastitis",
+        "Deutsch": "Brustentzündung"
+    },
+    {
+        "Id": "142",
+        "Lateinisch": "Megakolon",
+        "Deutsch": "Dickdarmerweiterung"
+    },
+    {
+        "Id": "143",
+        "Lateinisch": "Mamille",
+        "Deutsch": "die Brustwarze"
+    },
+    {
+        "Id": "144",
+        "Lateinisch": "Metabolismus",
+        "Deutsch": "Stoffwechsel"
+    },
+    {
+        "Id": "145",
+        "Lateinisch": "Mamma",
+        "Deutsch": "Brust"
+    },
+    {
+        "Id": "146",
+        "Lateinisch": "malign",
+        "Deutsch": "bösartig"
+    },
+    {
+        "Id": "147",
+        "Lateinisch": "Mucus",
+        "Deutsch": "der Schleim"
+    },
+    {
+        "Id": "148",
+        "Lateinisch": "Myalgie",
+        "Deutsch": "Muskelschmerzen"
+    },
+    {
+        "Id": "149",
+        "Lateinisch": "Nausea",
+        "Deutsch": "Übelkeit"
+    },
+    {
+        "Id": "150",
+        "Lateinisch": "Neuralgie",
+        "Deutsch": "Nervenschmerzen"
+    },
+    {
+        "Id": "151",
+        "Lateinisch": "Neoadjuvant",
+        "Deutsch": "unterstützende Therapieform vor einer kurativen Therapie"
+    },
+    {
+        "Id": "152",
+        "Lateinisch": "Nosokomial",
+        "Deutsch": "im Krankenhaus erworben"
+    },
+    {
+        "Id": "153",
+        "Lateinisch": "Nekrose",
+        "Deutsch": "örtlicher Gewebstod"
+    },
+    {
+        "Id": "154",
+        "Lateinisch": "Nephrologie",
+        "Deutsch": "Nierenheilkunde"
+    },
+    {
+        "Id": "155",
+        "Lateinisch": "Nephrektomie",
+        "Deutsch": "Nierenentfernung"
+    },
+    {
+        "Id": "156",
+        "Lateinisch": "Ovar",
+        "Deutsch": "Eierstock"
+    },
+    {
+        "Id": "157",
+        "Lateinisch": "Ovulation",
+        "Deutsch": "Eisprung"
+    },
+    {
+        "Id": "158",
+        "Lateinisch": "Olecranon",
+        "Deutsch": "Ellenbogen"
+    },
+    {
+        "Id": "159",
+        "Lateinisch": "Obstipation",
+        "Deutsch": "Verstopfung"
+    },
+    {
+        "Id": "160",
+        "Lateinisch": "Ophthalmologie",
+        "Deutsch": "Augenheilkunde"
+    },
+    {
+        "Id": "161",
+        "Lateinisch": "Ösophaguskarzinom",
+        "Deutsch": "Speiseröhrenkrebs"
+    },
+    {
+        "Id": "162",
+        "Lateinisch": "Otitis media",
+        "Deutsch": "Mittelohrentzündung"
+    },
+    {
+        "Id": "163",
+        "Lateinisch": "Obstruktion",
+        "Deutsch": "der Verschluss"
+    },
+    {
+        "Id": "164",
+        "Lateinisch": "Ödem",
+        "Deutsch": "Wasseransammlung"
+    },
+    {
+        "Id": "165",
+        "Lateinisch": "Osteomyelitis",
+        "Deutsch": "Knochenmarkentzündung"
+    },
+    {
+        "Id": "166",
+        "Lateinisch": "Orbita",
+        "Deutsch": "die Augenhöhle"
+    },
+    {
+        "Id": "167",
+        "Lateinisch": "Os nasale",
+        "Deutsch": "Nasenbein"
+    },
+    {
+        "Id": "168",
+        "Lateinisch": "Parotis",
+        "Deutsch": "Ohrspeicheldrüse"
+    },
+    {
+        "Id": "169",
+        "Lateinisch": "Pharynx",
+        "Deutsch": "der Rachen"
+    },
+    {
+        "Id": "170",
+        "Lateinisch": "Pädiater",
+        "Deutsch": "Kinderarzt"
+    },
+    {
+        "Id": "171",
+        "Lateinisch": "Pelvis",
+        "Deutsch": "das Becken"
+    },
+    {
+        "Id": "172",
+        "Lateinisch": "Perfusion",
+        "Deutsch": "Durchströmung"
+    },
+    {
+        "Id": "173",
+        "Lateinisch": "Pyrexie",
+        "Deutsch": "Fieber"
+    },
+    {
+        "Id": "174",
+        "Lateinisch": "Pruritus",
+        "Deutsch": "Juckreiz"
+    },
+    {
+        "Id": "175",
+        "Lateinisch": "Pes",
+        "Deutsch": "der Fuß"
+    },
+    {
+        "Id": "176",
+        "Lateinisch": "Proteinurie",
+        "Deutsch": "erhöhte Ausscheidung von Eiweiß im Urin"
+    },
+    {
+        "Id": "177",
+        "Lateinisch": "Peritonitis",
+        "Deutsch": "Bauchfellentzündung"
+    },
+    {
+        "Id": "178",
+        "Lateinisch": "Psoriasis",
+        "Deutsch": "Schuppenflechte"
+    },
+    {
+        "Id": "179",
+        "Lateinisch": "Pulmo",
+        "Deutsch": "die Lunge"
+    },
+    {
+        "Id": "180",
+        "Lateinisch": "Pädiatrie",
+        "Deutsch": "Kinderheilkunde"
+    },
+    {
+        "Id": "181",
+        "Lateinisch": "Prävention",
+        "Deutsch": "Vorbeugung"
+    },
+    {
+        "Id": "182",
+        "Lateinisch": "Pyelonephritis",
+        "Deutsch": "Nierenbeckenentzündung"
+    },
+    {
+        "Id": "183",
+        "Lateinisch": "Pankreas",
+        "Deutsch": "Bauchspeicheldrüse"
+    },
+    {
+        "Id": "184",
+        "Lateinisch": "Portio (Portio vaginalis uteri)",
+        "Deutsch": "Gebärmuttermund"
+    },
+    {
+        "Id": "185",
+        "Lateinisch": "Radius",
+        "Deutsch": "die Speiche"
+    },
+    {
+        "Id": "186",
+        "Lateinisch": "Respiration",
+        "Deutsch": "Atmung"
+    },
+    {
+        "Id": "187",
+        "Lateinisch": "Rektum",
+        "Deutsch": "Mastdarm"
+    },
+    {
+        "Id": "188",
+        "Lateinisch": "Rhagade",
+        "Deutsch": "Schrunde, Hauteinriss"
+    },
+    {
+        "Id": "189",
+        "Lateinisch": "Scapula",
+        "Deutsch": "Schulterblatt"
+    },
+    {
+        "Id": "190",
+        "Lateinisch": "Stoma",
+        "Deutsch": "Mund, Öffnung, Mündung"
+    },
+    {
+        "Id": "191",
+        "Lateinisch": "Sinusitis",
+        "Deutsch": "Nasennebenhöhlenentzündung"
+    },
+    {
+        "Id": "192",
+        "Lateinisch": "Sonographie",
+        "Deutsch": "der Ultraschall"
+    },
+    {
+        "Id": "193",
+        "Lateinisch": "Spirometrie",
+        "Deutsch": "Messung der Atemleistung"
+    },
+    {
+        "Id": "194",
+        "Lateinisch": "subkutan",
+        "Deutsch": "unter die Haut / unter der Haut"
+    },
+    {
+        "Id": "195",
+        "Lateinisch": "Sputum",
+        "Deutsch": "der Auswurf"
+    },
+    {
+        "Id": "196",
+        "Lateinisch": "Tremor",
+        "Deutsch": "das Zittern"
+    },
+    {
+        "Id": "197",
+        "Lateinisch": "Trachea",
+        "Deutsch": "Luftröhre"
+    },
+    {
+        "Id": "198",
+        "Lateinisch": "Tonsillitis",
+        "Deutsch": "Mandelentzündung"
+    },
+    {
+        "Id": "199",
+        "Lateinisch": "Tetraplegie",
+        "Deutsch": "Lähmung aller vier Gliedmaßen"
+    },
+    {
+        "Id": "200",
+        "Lateinisch": "Thyreoidea//Glandula thyreoidea",
+        "Deutsch": "Schilddrüse"
+    },
+    {
+        "Id": "201",
+        "Lateinisch": "Tibia",
+        "Deutsch": "Schienbein"
+    },
+    {
+        "Id": "202",
+        "Lateinisch": "Ulna",
+        "Deutsch": "Elle"
+    },
+    {
+        "Id": "203",
+        "Lateinisch": "Uterus",
+        "Deutsch": "Gebärmutter"
+    },
+    {
+        "Id": "204",
+        "Lateinisch": "Urethra",
+        "Deutsch": "die Harnröhre"
+    },
+    {
+        "Id": "205",
+        "Lateinisch": "Ulcus",
+        "Deutsch": "Geschwür"
+    },
+    {
+        "Id": "206",
+        "Lateinisch": "Varizen (Varix sg.)",
+        "Deutsch": "Krampfadern"
+    },
+    {
+        "Id": "207",
+        "Lateinisch": "Ventrikel",
+        "Deutsch": "Herz -  oder Gehirnkammer"
+    },
+    {
+        "Id": "208",
+        "Lateinisch": "Vaskulitis",
+        "Deutsch": "Gefäßentzündung"
+    },
+    {
+        "Id": "209",
+        "Lateinisch": "Zystitis",
+        "Deutsch": "Blasenentzündung"
+    },
+    {
+        "Id": "210",
+        "Lateinisch": "Cervix",
+        "Deutsch": "Gebärmutterhals"
+    },
+    {
+        "Id": "211",
+        "Lateinisch": "Hämaturie",
+        "Deutsch": "Blut bzw. Erythrozyten im Harn, im Urin"
+    },
+    {
+        "Id": "212",
+        "Lateinisch": "hereditär",
+        "Deutsch": "erblich"
+    },
+    {
+        "Id": "213",
+        "Lateinisch": "Clavicula",
+        "Deutsch": "Schlüsselbein"
+    },
+    {
+        "Id": "214",
+        "Lateinisch": "Pseudoarthrose",
+        "Deutsch": "Falschgelenk,&nbsp;Scheingelenk"
+    },
+    {
+        "Id": "215",
+        "Lateinisch": "Hämarthros",
+        "Deutsch": "Bluterguss im Gelenk"
+    },
+    {
+        "Id": "216",
+        "Lateinisch": "Plica vocalis",
+        "Deutsch": "Stimmlippe, Stimmfalte"
+    },
+    {
+        "Id": "217",
+        "Lateinisch": "Inguinal",
+        "Deutsch": "zur Leistengegend gehörend"
+    },
+    {
+        "Id": "218",
+        "Lateinisch": "Exanthem",
+        "Deutsch": "Hautausschlag"
+    },
+    {
+        "Id": "219",
+        "Lateinisch": "Leukozytose",
+        "Deutsch": "erhöhte Anzahl der weißen Blutkörperchen"
+    },
+    {
+        "Id": "220",
+        "Lateinisch": "Gaster",
+        "Deutsch": "Magen"
+    },
+    {
+        "Id": "221",
+        "Lateinisch": "Ulcus ventriculidas",
+        "Deutsch": "Magengeschwür"
+    },
+    {
+        "Id": "222",
+        "Lateinisch": "Gastrektomie",
+        "Deutsch": "die vollständige Magenentfernung"
+    },
+    {
+        "Id": "223",
+        "Lateinisch": "Atrium dextrum",
+        "Deutsch": "rechter Herzvorhof"
+    },
+    {
+        "Id": "224",
+        "Lateinisch": "Fibrose",
+        "Deutsch": "Gewebsverhärtung, Vermehrung von Bindegewebe"
+    },
+    {
+        "Id": "225",
+        "Lateinisch": "Unguis incarnatus",
+        "Deutsch": "eingewachsener Nagel"
+    },
+    {
+        "Id": "226",
+        "Lateinisch": "Pleuritis",
+        "Deutsch": "Brustfellentzündung"
+    },
+    {
+        "Id": "227",
+        "Lateinisch": "Postprandial",
+        "Deutsch": "nach der Mahlzeit"
+    },
+    {
+        "Id": "228",
+        "Lateinisch": "Vagina",
+        "Deutsch": "die Scheide"
+    },
+    {
+        "Id": "229",
+        "Lateinisch": "Diaphragma pelvis",
+        "Deutsch": "innerste Muskelschicht des Beckenbodens"
+    },
+    {
+        "Id": "230",
+        "Lateinisch": "Abdomen",
+        "Deutsch": "der Bauch"
+    },
+    {
+        "Id": "231",
+        "Lateinisch": "Amputation",
+        "Deutsch": "Abtrennung eines Körperteils"
+    },
+    {
+        "Id": "232",
+        "Lateinisch": "Anämie",
+        "Deutsch": "Blutarmut"
+    },
+    {
+        "Id": "233",
+        "Lateinisch": "Textus connectivus / Fibro",
+        "Deutsch": "Bindegewebe, Stützgewebe"
+    },
+    {
+        "Id": "234",
+        "Lateinisch": "benigne",
+        "Deutsch": "gutartig"
+    },
+    {
+        "Id": "235",
+        "Lateinisch": "Bronchitis",
+        "Deutsch": "Atemwegsentzündung"
+    },
+    {
+        "Id": "236",
+        "Lateinisch": "Diabetes mellitus",
+        "Deutsch": "Zuckerkrankheit"
+    },
+    {
+        "Id": "237",
+        "Lateinisch": "Gastritis",
+        "Deutsch": "Magenschleimhautentzündung"
+    },
+    {
+        "Id": "238",
+        "Lateinisch": "intrakutan",
+        "Deutsch": "in die/in der Haut"
+    },
+    {
+        "Id": "239",
+        "Lateinisch": "Ischämie",
+        "Deutsch": "Minderdurchblutung, Mangeldurchblutung"
+    },
+    {
+        "Id": "240",
+        "Lateinisch": "Lungenembolie",
+        "Deutsch": "Verstopfung eines Lungengefäßes"
+    },
+    {
+        "Id": "241",
+        "Lateinisch": "Mammakarzinom",
+        "Deutsch": "Brustkrebs"
+    },
+    {
+        "Id": "242",
+        "Lateinisch": "Meningitis",
+        "Deutsch": "Hirnhautentzündung"
+    },
+    {
+        "Id": "243",
+        "Lateinisch": "Myokard",
+        "Deutsch": "der Herzmuskel"
+    },
+    {
+        "Id": "244",
+        "Lateinisch": "Nephrologe",
+        "Deutsch": "Nierenarzt"
+    },
+    {
+        "Id": "245",
+        "Lateinisch": "Onkologie",
+        "Deutsch": "Lehre von Tumorerkrankungen"
+    },
+    {
+        "Id": "246",
+        "Lateinisch": "Onkologe",
+        "Deutsch": "Facharzt für Tumorerkrankungen"
+    },
+    {
+        "Id": "247",
+        "Lateinisch": "Ösophagitis",
+        "Deutsch": "Speiseröhrenentzündung"
+    },
+    {
+        "Id": "248",
+        "Lateinisch": "Perikard",
+        "Deutsch": "der Herzbeutel"
+    },
+    {
+        "Id": "249",
+        "Lateinisch": "posterior",
+        "Deutsch": "hinter"
+    },
+    {
+        "Id": "250",
+        "Lateinisch": "Fossa cubitalis (Regio cubitalis anterior)",
+        "Deutsch": "Ellenbeuge"
+    },
+    {
+        "Id": "251",
+        "Lateinisch": "Cubitus",
+        "Deutsch": "Ellenbogen"
+    },
+    {
+        "Id": "252",
+        "Lateinisch": "Retinopathie",
+        "Deutsch": "Netzhauterkrankung"
+    },
+    {
+        "Id": "253",
+        "Lateinisch": "Ureter",
+        "Deutsch": "der Harnleiter"
+    },
+    {
+        "Id": "254",
+        "Lateinisch": "Ventriculus cordis sinister",
+        "Deutsch": "linker Herzventrikel"
+    },
+    {
+        "Id": "255",
+        "Lateinisch": "Lingua/Glossa",
+        "Deutsch": "die Zunge"
+    },
+    {
+        "Id": "256",
+        "Lateinisch": "Bradykardie",
+        "Deutsch": "verlangsamte Herzfrequenz"
+    },
+    {
+        "Id": "257",
+        "Lateinisch": "Tubargravidität",
+        "Deutsch": "Eileiterschwangerschaft"
+    },
+    {
+        "Id": "258",
+        "Lateinisch": "Sphenoid,Sinus sphenoidalis",
+        "Deutsch": "Keilbein,Keilbeinhöhle"
+    },
+    {
+        "Id": "259",
+        "Lateinisch": "Atherosklerose",
+        "Deutsch": "Gefäßverkalkung"
+    },
+    {
+        "Id": "260",
+        "Lateinisch": "Os scaphoideum",
+        "Deutsch": "Kahnbein"
+    },
+    {
+        "Id": "261",
+        "Lateinisch": "Dilatation",
+        "Deutsch": "Erweiterung"
+    },
+    {
+        "Id": "262",
+        "Lateinisch": "Zystoskopie",
+        "Deutsch": "Blasenspiegelung"
+    },
+    {
+        "Id": "263",
+        "Lateinisch": "Prolaps",
+        "Deutsch": "Vorfall, Verlagerung eines Organs aus seiner physiologischen Lage"
+    },
+    {
+        "Id": "264",
+        "Lateinisch": "Nephrolithiasis",
+        "Deutsch": "Nierensteinleiden"
+    },
+    {
+        "Id": "265",
+        "Lateinisch": "Pollakisurie",
+        "Deutsch": "häufiges Wasserlassen"
+    }
+]
