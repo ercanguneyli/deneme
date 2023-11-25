@@ -1,220 +1,102 @@
 [
     {
-        "Id": "1",
-        "Lateinisch": "Halitosis, die/ Foetor ex ore",
-        "Deutsch": "der Mundgeruch"
+        "Id": "89",
+        "Lateinisch": "Hyperventilation",
+        "Deutsch": "vertiefte und/oder beschleunigte Atmung"
     },
     {
-        "Id": "2",
-        "Lateinisch": "Hallux valgus, der",
-        "Deutsch": "der Ballenzeh"
-    },
-    {
-        "Id": "3",
-        "Lateinisch": "Hämarthros, der",
-        "Deutsch": "die Gelenkeinblutung, blutiger Gelenkerguss"
-    },
-    {
-        "Id": "4",
-        "Lateinisch": "Hämatemesis, die",
-        "Deutsch": "das Bluterbrechen, das Erbrechen von Blut"
-    },
-    {
-        "Id": "5",
-        "Lateinisch": "Hämatologie, die",
-        "Deutsch": "die Lehre von der Physiologie und den Krankheiten des Blutes bzw. der blutbildenden Organe"
-    },
-    {
-        "Id": "6",
-        "Lateinisch": "Hämatom, das",
-        "Deutsch": "der Bluterguss"
-    },
-    {
-        "Id": "7",
-        "Lateinisch": "Hämoglobin (Hb), das",
-        "Deutsch": "der rote Blutfarbstoff"
-    },
-    {
-        "Id": "8",
-        "Lateinisch": "\"Hämoglobinurie, die"
-    },
-    {
-        "Id": "s. a. Mikro- /Makrohämaturie\"",
-        "Lateinisch": "das Blut im Urin"
-    },
-    {
-        "Id": "9",
-        "Lateinisch": "Hämophilie, die",
-        "Deutsch": "die Bluterkrankheit"
-    },
-    {
-        "Id": "10",
-        "Lateinisch": "Hämoptyse, die",
-        "Deutsch": "Blut im Auswurf beim Abhusten"
-    },
-    {
-        "Id": "11",
-        "Lateinisch": "Hämoptoe, die",
-        "Deutsch": "das massive Aushusten von Blut, der Bluthusten"
-    },
-    {
-        "Id": "12",
-        "Lateinisch": "Hämorrhagie, die",
-        "Deutsch": "die Blutung"
-    },
-    {
-        "Id": "13",
-        "Lateinisch": "Harninkontinenz, die",
-        "Deutsch": "die Blasenschwäche"
-    },
-    {
-        "Id": "14",
-        "Lateinisch": "Hautabszess, der",
-        "Deutsch": "die Eiteransammlung in der Haut"
-    },
-    {
-        "Id": "15",
-        "Lateinisch": "Hemianopsie, die",
-        "Deutsch": "der halbseitige Gesichtsfeldausfall"
-    },
-    {
-        "Id": "16",
-        "Lateinisch": "Hemiparese, die",
-        "Deutsch": "die unvollständige Lähmung einer Körperseite"
-    },
-    {
-        "Id": "17",
-        "Lateinisch": "Hemiplegie, die",
-        "Deutsch": "die vollständige Lähmung einer Körperseite"
-    },
-    {
-        "Id": "18",
-        "Lateinisch": "Hepar, das",
-        "Deutsch": "die Leber"
-    },
-    {
-        "Id": "19",
-        "Lateinisch": "Hepatitis, die",
-        "Deutsch": "die Leberentzündung"
-    },
-    {
-        "Id": "20",
-        "Lateinisch": "Hepatomegalie, die",
-        "Deutsch": "die Lebervergrößerung"
-    },
-    {
-        "Id": "21",
-        "Lateinisch": "hepatotoxisch",
-        "Deutsch": "die Leber schädigend"
-    },
-    {
-        "Id": "22",
-        "Lateinisch": "Hepatotoxizität, die",
-        "Deutsch": "die Eigenschaft chemischer Stoffe, giftig für die Funktionszellen der Leber (Hepatozyten) zu sein"
-    },
-    {
-        "Id": "23",
-        "Lateinisch": "hereditär (Adj.)",
-        "Deutsch": "erblich"
-    },
-    {
-        "Id": "24",
-        "Lateinisch": "Hernie, die",
-        "Deutsch": "der Eingeweidebruch, der Weichteilbruch"
-    },
-    {
-        "Id": "25",
-        "Lateinisch": "Herpes zoster, der",
-        "Deutsch": "die Gürtelrose"
-    },
-    {
-        "Id": "26",
-        "Lateinisch": "Herzinsuffizienz, die",
-        "Deutsch": "die Herzschwäche"
-    },
-    {
-        "Id": "27",
-        "Lateinisch": "Hirninfarkt, der",
-        "Deutsch": "das Absterben von Hirngewebe"
-    },
-    {
-        "Id": "28",
-        "Lateinisch": "Humerus, der",
-        "Deutsch": "der Oberarmknochen"
-    },
-    {
-        "Id": "29",
-        "Lateinisch": "Hypercholesterinämie, die",
-        "Deutsch": "eine Fettstoffwechselstörung, die durch einen erhöhten Cholesterinspiegel im Blut gekennzeichnet ist"
-    },
-    {
-        "Id": "30",
-        "Lateinisch": "Hyperglykämie, die",
+        "Id": "90",
+        "Lateinisch": "Hyperglykämie",
         "Deutsch": "erhöhter Blutzuckerspiegel"
     },
     {
-        "Id": "31",
-        "Lateinisch": "Hyperlipidämie, die / Hyperlipoproteinämie, die",
-        "Deutsch": "eine Fettstoffwechselstörung, bei der bestimmte Lipoproteine und die von ihnen transportierten Lipide (Cholesterin, Triglyzeride) im Blut erhöht sind"
+        "Id": "91",
+        "Lateinisch": "Hypophyse",
+        "Deutsch": "Hirnanhangdrüse"
     },
     {
-        "Id": "32",
-        "Lateinisch": "Hyperthyreose, die",
-        "Deutsch": "die Schilddrüsenüberfunktion"
+        "Id": "92",
+        "Lateinisch": "Hepatotoxisch",
+        "Deutsch": "leberschädigend"
     },
     {
-        "Id": "33",
-        "Lateinisch": "Hyperurikämie, die",
-        "Deutsch": "erhöhte Harnsäurewerte im Blut (oft bei Gicht)"
+        "Id": "93",
+        "Lateinisch": "Hepatotoxizität",
+        "Deutsch": "Leberschäden,Lebervergiftung"
     },
     {
-        "Id": "34",
-        "Lateinisch": "Hyperventilation, die",
-        "Deutsch": "die gesteigerte Anzahl der Atemzüge"
+        "Id": "94",
+        "Lateinisch": "Hernie",
+        "Deutsch": "Bruch (Eingeweidebruch)"
     },
     {
-        "Id": "35",
-        "Lateinisch": "hypo-",
-        "Deutsch": "vermindert"
+        "Id": "95",
+        "Lateinisch": "Hypothyreose",
+        "Deutsch": "Schilddrüsenunterfunktion"
     },
     {
-        "Id": "36",
-        "Lateinisch": "Hypoglykämie, die",
-        "Deutsch": "die Unterzuckerung"
+        "Id": "96",
+        "Lateinisch": "Hypoxämie",
+        "Deutsch": "Sauerstoffmangel im arteriellen Blut"
     },
     {
-        "Id": "37",
-        "Lateinisch": "Hypophyse, die",
-        "Deutsch": "die Hirnanhangdrüse"
+        "Id": "97",
+        "Lateinisch": "Hypotonie",
+        "Deutsch": "niedriger Blutdruck"
     },
     {
-        "Id": "38",
-        "Lateinisch": "Hypothermie, die",
-        "Deutsch": "die Unterkühlung"
+        "Id": "98",
+        "Lateinisch": "Hypertonie",
+        "Deutsch": "Bluthochdruck"
     },
     {
-        "Id": "39",
-        "Lateinisch": "Hypothyreose, die",
-        "Deutsch": "die Schilddrüsenunterfunktion"
+        "Id": "99",
+        "Lateinisch": "Hyperlipidämie",
+        "Deutsch": "erhöhte Blutfettwerte"
     },
     {
-        "Id": "40",
-        "Lateinisch": "hypovolämischer Schock, der",
-        "Deutsch": "der Volumenmangelschock"
+        "Id": "100",
+        "Lateinisch": "Hepar",
+        "Deutsch": "Leber"
     },
     {
-        "Id": "41",
-        "Lateinisch": "Hypoxämie, die",
-        "Deutsch": "der Sauerstoffmangel im arteriellen Blut"
+        "Id": "101",
+        "Lateinisch": "Hämatom",
+        "Deutsch": "Bluterguss"
     },
     {
-        "Id": "42",
-        "Lateinisch": "Hypoxie, die",
-        "Deutsch": "der Sauerstoffmangel"
+        "Id": "102",
+        "Lateinisch": "Hämatologie",
+        "Deutsch": "Blutheilkunde"
     },
     {
-        "Id": "43",
-        "Lateinisch": "Hysterektomie, die",
-        "Deutsch": "die Gebärmutterentfernung, ugs. „Total-OP“"
+        "Id": "103",
+        "Lateinisch": "Hämoptoe",
+        "Deutsch": "Bluthusten (größere Menge)"
+    },
+    {
+        "Id": "104",
+        "Lateinisch": "Hämatemesis",
+        "Deutsch": "Bluterbrechen"
+    },
+    {
+        "Id": "105",
+        "Lateinisch": "Humerus",
+        "Deutsch": "Oberarmknochen"
+    },
+    {
+        "Id": "106",
+        "Lateinisch": "Hepatitis",
+        "Deutsch": "Leberentzündung"
+    },
+    {
+        "Id": "107",
+        "Lateinisch": "Hemiparese",
+        "Deutsch": "Halbseitenlähmung"
+    },
+    {
+        "Id": "108",
+        "Lateinisch": "Hemianopsie",
+        "Deutsch": "Halbseitenblindheit"
     }
 ]
