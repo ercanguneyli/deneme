@@ -1,0 +1,102 @@
+﻿[
+    {
+        "Id": "89",
+        "Lateinisch": "Hyperventilation",
+        "Deutsch": "vertiefte und/oder beschleunigte Atmung"
+    },
+    {
+        "Id": "90",
+        "Lateinisch": "Hyperglykämie",
+        "Deutsch": "erhöhter Blutzuckerspiegel"
+    },
+    {
+        "Id": "91",
+        "Lateinisch": "Hypophyse",
+        "Deutsch": "Hirnanhangdrüse"
+    },
+    {
+        "Id": "92",
+        "Lateinisch": "Hepatotoxisch",
+        "Deutsch": "leberschädigend"
+    },
+    {
+        "Id": "93",
+        "Lateinisch": "Hepatotoxizität",
+        "Deutsch": "Leberschäden,Lebervergiftung"
+    },
+    {
+        "Id": "94",
+        "Lateinisch": "Hernie",
+        "Deutsch": "Bruch (Eingeweidebruch)"
+    },
+    {
+        "Id": "95",
+        "Lateinisch": "Hypothyreose",
+        "Deutsch": "Schilddrüsenunterfunktion"
+    },
+    {
+        "Id": "96",
+        "Lateinisch": "Hypoxämie",
+        "Deutsch": "Sauerstoffmangel im arteriellen Blut"
+    },
+    {
+        "Id": "97",
+        "Lateinisch": "Hypotonie",
+        "Deutsch": "niedriger Blutdruck"
+    },
+    {
+        "Id": "98",
+        "Lateinisch": "Hypertonie",
+        "Deutsch": "Bluthochdruck"
+    },
+    {
+        "Id": "99",
+        "Lateinisch": "Hyperlipidämie",
+        "Deutsch": "erhöhte Blutfettwerte"
+    },
+    {
+        "Id": "100",
+        "Lateinisch": "Hepar",
+        "Deutsch": "Leber"
+    },
+    {
+        "Id": "101",
+        "Lateinisch": "Hämatom",
+        "Deutsch": "Bluterguss"
+    },
+    {
+        "Id": "102",
+        "Lateinisch": "Hämatologie",
+        "Deutsch": "Blutheilkunde"
+    },
+    {
+        "Id": "103",
+        "Lateinisch": "Hämoptoe",
+        "Deutsch": "Bluthusten (größere Menge)"
+    },
+    {
+        "Id": "104",
+        "Lateinisch": "Hämatemesis",
+        "Deutsch": "Bluterbrechen"
+    },
+    {
+        "Id": "105",
+        "Lateinisch": "Humerus",
+        "Deutsch": "Oberarmknochen"
+    },
+    {
+        "Id": "106",
+        "Lateinisch": "Hepatitis",
+        "Deutsch": "Leberentzündung"
+    },
+    {
+        "Id": "107",
+        "Lateinisch": "Hemiparese",
+        "Deutsch": "Halbseitenlähmung"
+    },
+    {
+        "Id": "108",
+        "Lateinisch": "Hemianopsie",
+        "Deutsch": "Halbseitenblindheit"
+    }
+]
